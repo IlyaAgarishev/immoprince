@@ -8,3 +8,19 @@ body {
 .immo-gif {
   width: 100%;
 }
+
+.app {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.eight {
+  background: red;
+  color: white;
+  font-size: 30px;
+  outline: none;
+  font-weight: bold;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
